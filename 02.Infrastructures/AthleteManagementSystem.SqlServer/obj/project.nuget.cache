@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q/QuvSd4zQgQHIMuldhq6kw1X3MWPPC0b7cHKf721d8PU7Rt4ymTkZJGi+TYIrqg2M89XRfe7FxAQhUePp1dmA==",
+  "dgSpecHash": "HDL+By0rrs2uZ5TB6qfsDN+TKohU85fUkBN31bVHOeRSmMHB6voe5TE7JHcxIbQGt4iSNobONWNsZDWsWWNcIA==",
   "success": true,
   "projectFilePath": "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\02.Infrastructures\\AthleteManagementSystem.SqlServer\\AthleteManagementSystem.SqlServer.csproj",
   "expectedPackageFiles": [

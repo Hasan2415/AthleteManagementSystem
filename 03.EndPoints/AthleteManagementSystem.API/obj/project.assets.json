@@ -1230,6 +1230,9 @@
       "AthleteManagementSystem.ApplicationService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AthleteManagementSystem.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/AthleteManagementSystem.ApplicationService.dll": {}
         },
@@ -1240,11 +1243,24 @@
       "AthleteManagementSystem.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AthleteManagementSystem.Framework.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/AthleteManagementSystem.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/AthleteManagementSystem.Domain.dll": {}
+        }
+      },
+      "AthleteManagementSystem.Framework.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
         }
       },
       "AthleteManagementSystem.SqlServer/1.0.0": {
@@ -3907,6 +3923,11 @@
       "type": "project",
       "path": "../../01.Core/AthleteManagementSystem.Domain/AthleteManagementSystem.Domain.csproj",
       "msbuildProject": "../../01.Core/AthleteManagementSystem.Domain/AthleteManagementSystem.Domain.csproj"
+    },
+    "AthleteManagementSystem.Framework.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../00.Framework/AthleteManagementSystem.Framework.Domain/AthleteManagementSystem.Framework.Domain.csproj",
+      "msbuildProject": "../../00.Framework/AthleteManagementSystem.Framework.Domain/AthleteManagementSystem.Framework.Domain.csproj"
     },
     "AthleteManagementSystem.SqlServer/1.0.0": {
       "type": "project",

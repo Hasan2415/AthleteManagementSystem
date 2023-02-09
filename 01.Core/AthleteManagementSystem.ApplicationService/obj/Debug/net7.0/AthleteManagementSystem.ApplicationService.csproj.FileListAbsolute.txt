@@ -10,3 +10,8 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteMan
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Debug\net7.0\refint\AthleteManagementSystem.ApplicationService.dll
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Debug\net7.0\AthleteManagementSystem.ApplicationService.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Debug\net7.0\ref\AthleteManagementSystem.ApplicationService.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Debug\net7.0\AthleteManagementSystem.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Debug\net7.0\AthleteManagementSystem.Framework.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Debug\net7.0\AthleteManagementSystem.Domain.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Debug\net7.0\AthleteManagementSystem.Framework.Domain.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Debug\net7.0\AthleteManagementSystem.ApplicationService.csproj.CopyComplete

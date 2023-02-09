@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AthleteManagementSystem.Sql
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AthleteManagementSystem.API", "03.EndPoints\AthleteManagementSystem.API\AthleteManagementSystem.API.csproj", "{9AD90E65-FE35-457B-ACFF-60371BCA5301}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Framework", "00.Framework", "{B3B34F5B-116E-4121-A9C7-A3A05F560849}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AthleteManagementSystem.Framework.Domain", "00.Framework\AthleteManagementSystem.Framework.Domain\AthleteManagementSystem.Framework.Domain.csproj", "{4304B081-6E36-4055-B284-2BD762E0ED6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{9AD90E65-FE35-457B-ACFF-60371BCA5301}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD90E65-FE35-457B-ACFF-60371BCA5301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD90E65-FE35-457B-ACFF-60371BCA5301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4304B081-6E36-4055-B284-2BD762E0ED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4304B081-6E36-4055-B284-2BD762E0ED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4304B081-6E36-4055-B284-2BD762E0ED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4304B081-6E36-4055-B284-2BD762E0ED6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{177C67CC-D5CA-408B-911A-78A2EC775DEE} = {EAF36192-3516-4562-B0E2-BDA30BFD8E5E}
 		{CED8BDE0-1F19-4210-9394-2FE149980914} = {E5965C60-A69B-4AEC-A169-0E1567A91322}
 		{9AD90E65-FE35-457B-ACFF-60371BCA5301} = {BD0AA98C-D18A-4B94-BD3A-5FB0278B43F6}
+		{4304B081-6E36-4055-B284-2BD762E0ED6E} = {B3B34F5B-116E-4121-A9C7-A3A05F560849}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {307F8D14-3418-49DB-8D48-35C33208FD25}

@@ -672,8 +672,16 @@
         }
       },
       "AthleteManagementSystem.Domain/1.0.0": {
+        "dependencies": {
+          "AthleteManagementSystem.Framework.Domain": "1.0.0"
+        },
         "runtime": {
           "AthleteManagementSystem.Domain.dll": {}
+        }
+      },
+      "AthleteManagementSystem.Framework.Domain/1.0.0": {
+        "runtime": {
+          "AthleteManagementSystem.Framework.Domain.dll": {}
         }
       }
     }
@@ -1154,6 +1162,11 @@
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
     },
     "AthleteManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AthleteManagementSystem.Framework.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

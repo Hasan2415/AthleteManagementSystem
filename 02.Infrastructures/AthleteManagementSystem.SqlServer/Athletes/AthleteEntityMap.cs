@@ -1,4 +1,4 @@
-﻿using AthleteManagementSystem.Domain.Athletes;
+﻿using AthleteManagementSystem.Domain.Athletes.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

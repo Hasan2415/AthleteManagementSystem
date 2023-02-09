@@ -10,3 +10,6 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteMan
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.Domain\obj\Debug\net7.0\refint\AthleteManagementSystem.Domain.dll
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.Domain\obj\Debug\net7.0\AthleteManagementSystem.Domain.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.Domain\obj\Debug\net7.0\ref\AthleteManagementSystem.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.Domain\bin\Debug\net7.0\AthleteManagementSystem.Framework.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.Domain\bin\Debug\net7.0\AthleteManagementSystem.Framework.Domain.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.Domain\obj\Debug\net7.0\AthleteManagementSystem.Domain.csproj.CopyComplete

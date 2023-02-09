@@ -15,3 +15,5 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\02.Infrastructures
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\02.Infrastructures\AthleteManagementSystem.SqlServer\bin\Debug\net7.0\AthleteManagementSystem.Domain.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\02.Infrastructures\AthleteManagementSystem.SqlServer\obj\Debug\net7.0\AthleteManagementSystem.SqlServer.csproj.CopyComplete
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\02.Infrastructures\AthleteManagementSystem.SqlServer\obj\Debug\net7.0\AthleteManagementSystem.SqlServer.genruntimeconfig.cache
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\02.Infrastructures\AthleteManagementSystem.SqlServer\bin\Debug\net7.0\AthleteManagementSystem.Framework.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\02.Infrastructures\AthleteManagementSystem.SqlServer\bin\Debug\net7.0\AthleteManagementSystem.Framework.Domain.pdb

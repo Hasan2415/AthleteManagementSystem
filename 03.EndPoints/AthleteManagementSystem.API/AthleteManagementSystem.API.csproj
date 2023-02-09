@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\01.Core\AthleteManagementSystem.ApplicationService\AthleteManagementSystem.ApplicationService.csproj" />
     <ProjectReference Include="..\..\02.Infrastructures\AthleteManagementSystem.SqlServer\AthleteManagementSystem.SqlServer.csproj" />
   </ItemGroup>

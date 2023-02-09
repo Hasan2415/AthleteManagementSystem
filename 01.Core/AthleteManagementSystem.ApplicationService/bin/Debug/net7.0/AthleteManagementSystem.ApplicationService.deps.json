@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "AthleteManagementSystem.ApplicationService/1.0.0": {
+        "dependencies": {
+          "AthleteManagementSystem.Domain": "1.0.0"
+        },
         "runtime": {
           "AthleteManagementSystem.ApplicationService.dll": {}
+        }
+      },
+      "AthleteManagementSystem.Domain/1.0.0": {
+        "dependencies": {
+          "AthleteManagementSystem.Framework.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AthleteManagementSystem.Domain.dll": {}
+        }
+      },
+      "AthleteManagementSystem.Framework.Domain/1.0.0": {
+        "runtime": {
+          "AthleteManagementSystem.Framework.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AthleteManagementSystem.ApplicationService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AthleteManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AthleteManagementSystem.Framework.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

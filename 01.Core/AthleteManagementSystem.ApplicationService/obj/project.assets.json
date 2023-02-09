@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "AthleteManagementSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AthleteManagementSystem.Framework.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AthleteManagementSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AthleteManagementSystem.Domain.dll": {}
+        }
+      },
+      "AthleteManagementSystem.Framework.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AthleteManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AthleteManagementSystem.Domain/AthleteManagementSystem.Domain.csproj",
+      "msbuildProject": "../AthleteManagementSystem.Domain/AthleteManagementSystem.Domain.csproj"
+    },
+    "AthleteManagementSystem.Framework.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../00.Framework/AthleteManagementSystem.Framework.Domain/AthleteManagementSystem.Framework.Domain.csproj",
+      "msbuildProject": "../../00.Framework/AthleteManagementSystem.Framework.Domain/AthleteManagementSystem.Framework.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "AthleteManagementSystem.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Hasan\\.nuget\\packages\\": {},
@@ -39,7 +76,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\01.Core\\AthleteManagementSystem.Domain\\AthleteManagementSystem.Domain.csproj": {
+              "projectPath": "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\01.Core\\AthleteManagementSystem.Domain\\AthleteManagementSystem.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
