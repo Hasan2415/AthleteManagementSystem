@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Hasan\Desktop\Publish</_PublishTargetUrl>
-    <History>True|2023-02-09T15:56:18.8823211Z;True|2023-02-09T19:05:07.8464976+03:30;True|2023-02-09T18:53:29.2876859+03:30;True|2023-02-09T18:31:41.8675273+03:30;True|2023-02-09T18:25:09.3099162+03:30;</History>
+    <History>True|2023-02-09T16:31:52.4416840Z;True|2023-02-09T19:54:21.8483402+03:30;True|2023-02-09T19:52:32.7031874+03:30;True|2023-02-09T19:26:18.8823211+03:30;True|2023-02-09T19:05:07.8464976+03:30;True|2023-02-09T18:53:29.2876859+03:30;True|2023-02-09T18:31:41.8675273+03:30;True|2023-02-09T18:25:09.3099162+03:30;</History>
     <LastFailureDetails />
     <TimeStampOfAssociatedLegacyPublishXmlFile />
   </PropertyGroup>
