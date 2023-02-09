@@ -12,6 +12,18 @@
           "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
         }
       }
+    },
+    "net7.0/win-x64": {
+      "AthleteManagementSystem.Framework.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AthleteManagementSystem.Framework.Domain.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -91,6 +103,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

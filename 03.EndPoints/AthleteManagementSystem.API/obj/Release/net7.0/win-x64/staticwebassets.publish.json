@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B5mlzLThSX0PSYxEyvVbIdz4uBEe9M6tkaYQHfjVm0E=",
+  "Source": "AthleteManagementSystem.API",
+  "BasePath": "_content/AthleteManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

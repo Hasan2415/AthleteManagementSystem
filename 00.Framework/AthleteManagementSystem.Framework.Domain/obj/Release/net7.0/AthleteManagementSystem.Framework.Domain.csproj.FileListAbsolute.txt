@@ -1,0 +1,12 @@
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\bin\Release\net7.0\AthleteManagementSystem.Framework.Domain.deps.json
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\bin\Release\net7.0\AthleteManagementSystem.Framework.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\bin\Release\net7.0\AthleteManagementSystem.Framework.Domain.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.csproj.AssemblyReference.cache
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.AssemblyInfoInputs.cache
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.AssemblyInfo.cs
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.csproj.CoreCompileInputs.cache
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\refint\AthleteManagementSystem.Framework.Domain.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\AthleteManagementSystem.Framework.Domain.pdb
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\00.Framework\AthleteManagementSystem.Framework.Domain\obj\Release\net7.0\ref\AthleteManagementSystem.Framework.Domain.dll

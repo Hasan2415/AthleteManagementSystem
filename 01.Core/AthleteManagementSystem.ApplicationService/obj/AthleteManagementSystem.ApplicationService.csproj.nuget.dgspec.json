@@ -62,6 +62,11 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
       }
     },
     "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\01.Core\\AthleteManagementSystem.ApplicationService\\AthleteManagementSystem.ApplicationService.csproj": {
@@ -126,6 +131,11 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
       }
     },
     "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\01.Core\\AthleteManagementSystem.Domain\\AthleteManagementSystem.Domain.csproj": {
@@ -189,6 +199,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
