@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Fr3tjndEMX0bOay3D2vkfUqts2I43O67L9egEJ+kYXwyoOa3D4EyWMaDqm57Qqz0iQAFfszJN6tlS3Jq8Glflg==",
+  "dgSpecHash": "DhNGN0sjPPYdzvlmGdW+YdHQc7nJ2bO+Wz9Ccj6duKJS7UX3QQwUSK3kSksPtD9WbW7nf7Yz+8VG4E+k1UePPw==",
   "success": true,
   "projectFilePath": "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\03.EndPoints\\AthleteManagementSystem.API\\AthleteManagementSystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

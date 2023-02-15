@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NyAImp91E1ZhHWuDGzGGFRhfbPqXlZiQ8AGyolHeuDajkZyTipUkMjLeRppyXb9CSi+jWOTYF5FXGq/FL5Ez5g==",
+  "dgSpecHash": "E+wjol3HSmVwRvg0KH7ZHFXTRQF8Z/f+nO62ROcA9yWznqCih9AjoC3hJGummKdT6k3jjxA35k84vFBwcxHAAw==",
   "success": true,
   "projectFilePath": "F:\\MyProjects\\AthleteManagementSystem\\AthleteManagementSystem\\02.Infrastructures\\AthleteManagementSystem.SqlServer\\AthleteManagementSystem.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

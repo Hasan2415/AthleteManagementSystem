@@ -46,10 +46,6 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\Athle
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.Domain.dll
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.Framework.Domain.dll
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.SqlServer.dll
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.ApplicationService.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.SqlServer.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.Domain.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\AthleteManagementSystem.Framework.Domain.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\AthleteManagementSystem.API.csproj.AssemblyReference.cache
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\AthleteManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\AthleteManagementSystem.API.AssemblyInfoInputs.cache
@@ -71,3 +67,4 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\Athle
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\AthleteManagementSystem.API.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\AthleteManagementSystem.API.genruntimeconfig.cache
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\ref\AthleteManagementSystem.API.dll
+F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\bin\Release\net7.0\win-x64\Dapper.dll

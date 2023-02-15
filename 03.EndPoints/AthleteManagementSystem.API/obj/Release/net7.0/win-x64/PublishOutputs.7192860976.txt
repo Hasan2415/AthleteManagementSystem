@@ -2,8 +2,4 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\Athle
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.json
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\AthleteManagementSystem.API.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\AthleteManagementSystem.ApplicationService.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\AthleteManagementSystem.SqlServer.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\AthleteManagementSystem.Domain.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\AthleteManagementSystem.Framework.Domain.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\03.EndPoints\AthleteManagementSystem.API\obj\Release\net7.0\win-x64\PubTmp\Out\AthleteManagementSystem.API.exe

@@ -1,10 +1,7 @@
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.ApplicationService.deps.json
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.ApplicationService.dll
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.ApplicationService.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.Domain.dll
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.Framework.Domain.dll
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.Domain.pdb
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\bin\Release\net7.0\AthleteManagementSystem.Framework.Domain.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\AthleteManagementSystem.ApplicationService.csproj.AssemblyReference.cache
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\AthleteManagementSystem.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\AthleteManagementSystem.ApplicationService.AssemblyInfoInputs.cache
@@ -13,5 +10,4 @@ F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteMan
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\AthleteManagementSystem.ApplicationService.csproj.CopyComplete
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\AthleteManagementSystem.ApplicationService.dll
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\refint\AthleteManagementSystem.ApplicationService.dll
-F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\AthleteManagementSystem.ApplicationService.pdb
 F:\MyProjects\AthleteManagementSystem\AthleteManagementSystem\01.Core\AthleteManagementSystem.ApplicationService\obj\Release\net7.0\ref\AthleteManagementSystem.ApplicationService.dll
